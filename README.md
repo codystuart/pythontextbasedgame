@@ -1,5 +1,5 @@
 # Python Text Based Game
----
+
 ## Overview
 This is a simple text-based adventure game created as part of an introductory scripting project. The player explores various rooms, collecting items to prepare for an encounter. The goal is to collect all necessary items and reach the exit to win the game.
 
